@@ -10,4 +10,4 @@ Instaladores oficiais do **VEXO iManager**, o gerenciador completo de iPhone e i
 
 O código-fonte é privado. Este repositório guarda só os instaladores.
 
-VEXO · by Anatech
+Powered by [ANATECH](https://instagram.com/veniciosmartins)
